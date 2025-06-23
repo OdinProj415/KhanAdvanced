@@ -1,0 +1,54 @@
+* {
+    font-family: Lato, Noto Sans, Helvetica, Corbel, sans-serif; 
+    font-weight:400; 
+    text-align: center;
+}
+
+form {
+    text-align: left;
+    width: 325px;
+}
+
+input {
+    width: 317px;
+    text-align: left;
+}
+
+button {
+    border: none;
+    background-color: transparent;
+    text-align: center;
+}
+
+a {
+    border: none;
+    color: black;
+    text-decoration: none;
+}
+
+a.index {
+    padding-top: 8px;
+    padding-bottom: 12px;
+    display: block;
+    background-color: #1865f2;
+    height: 20px;
+    width: 325px;
+    border-radius: 4px;
+    margin-left: 0;
+    margin-top: 10px;
+    text-align: left;
+}
+
+button.index {
+    width: 325px;
+}
+
+span {
+    float:right;
+    font-size: xx-small;
+    white-space: wrap;
+    width: 10em;
+}
+
+
+
